@@ -1,0 +1,1 @@
+Dans ce dossier, vous retrouverez la documentation de toute la procédure d'installation de WordPress en local mais également sur un hébergeur gratuit. Il y a également des explications sur l'utilisation de WordPress, l'ajout et l'application de thèmes, d'extensions et également de classes CSS pour modifier l'apparence des éléments de votre site web.
